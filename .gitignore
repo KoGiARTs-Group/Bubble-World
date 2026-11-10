@@ -28,6 +28,14 @@ Thumbs.db
 # ===== Internal planning docs (kept local, not published) =====
 Assets/Scripts/BubbleWorld/Plans/
 Assets/Scripts/BubbleWorld/Plans.meta
+Bubble World Implementation Plan.md
+
+# ===== Scratch logs in root =====
+build_log.txt
+compile-log.txt
+compile_log.txt
+TestLog.txt
+*.log.txt
 
 # ===== Node backend (Backend/) =====
 Backend/node_modules/
