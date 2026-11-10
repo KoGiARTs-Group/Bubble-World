@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd1dca67d27198f4786fe53d6eca51bf, type: 3}
+  m_Name: pl_flowers
+  m_EditorClassIdentifier: 
+  Id: flowers
+  DisplayName: Flowers
+  Icon: {fileID: 0}
+  Tab: 2
+  Layer: 1
+  IsObject: 1
+  TintColor: {r: 0.9098039, g: 0.4745098, b: 0.7254902, a: 1}
+  Prefab3D: {fileID: 0}
+  FallbackPrimitive: 0
+  ModelScale3D: {x: 1, y: 1, z: 1}
+  YOffset3D: 0.5
+  Food: 2
+  Water: 0
+  Shelter: 0
+  Light: 1
+  Safety: 1
+  Weather: 0
+  Stability: 0
+  Space: 0
+  TileCategory: 
+  OccupyRadius: 0

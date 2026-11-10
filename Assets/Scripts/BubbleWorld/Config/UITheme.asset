@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1d5e153c3d20c444a6a7725ad881d5b, type: 3}
+  m_Name: UITheme
+  m_EditorClassIdentifier: 
+  PanelBackground: {r: 0.08, g: 0.1, b: 0.12, a: 0.92}
+  PanelAccent: {r: 0.03, g: 0.06, b: 0.055, a: 0.88}
+  ButtonNormal: {r: 1, g: 1, b: 1, a: 0.94}
+  ButtonHighlighted: {r: 0.94, g: 0.96, b: 0.92, a: 0.96}
+  ButtonDisabled: {r: 0.38, g: 0.4, b: 0.39, a: 0.7}
+  ButtonBackground: {fileID: 21300000, guid: 61a2dbc5b662e7546a14fb7558d48ff2, type: 3}
+  TextPrimary: {r: 1, g: 1, b: 1, a: 1}
+  TextSecondary: {r: 0.78, g: 0.8, b: 0.78, a: 1}
+  TextOnDark: {r: 0, g: 0, b: 0, a: 1}
+  TextAccent: {r: 0.3, g: 0.85, b: 0.5, a: 1}
+  TitleFontSize: 120
+  HeaderFontSize: 90
+  BodyFontSize: 36
+  SmallFontSize: 24
+  ScreenBackground: {r: 0.04, g: 0.08, b: 0.1, a: 1}

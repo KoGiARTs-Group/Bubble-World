@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bcafdc1d05dccd49802f4dd1b0ac36e, type: 3}
+  m_Name: AIConfig
+  m_EditorClassIdentifier: 
+  Carnivore:
+    HungerThreshold: 30
+    FoodRolls:
+    - RangeStart: 1
+      RangeEnd: 100
+      Action: Hunt
+    SocialRolls:
+    - RangeStart: 1
+      RangeEnd: 100
+      Action: Socialize
+    SafetyRolls:
+    - RangeStart: 1
+      RangeEnd: 50
+      Action: Attack
+    - RangeStart: 51
+      RangeEnd: 100
+      Action: Flee
+  Herbivore:
+    HungerThreshold: 30
+    FoodRolls:
+    - RangeStart: 1
+      RangeEnd: 100
+      Action: Forage
+    SocialRolls:
+    - RangeStart: 1
+      RangeEnd: 100
+      Action: Socialize
+    SafetyRolls:
+    - RangeStart: 1
+      RangeEnd: 90
+      Action: Flee
+    - RangeStart: 91
+      RangeEnd: 100
+      Action: Attack
+  Omnivore:
+    HungerThreshold: 30
+    FoodRolls:
+    - RangeStart: 1
+      RangeEnd: 85
+      Action: Forage
+    - RangeStart: 86
+      RangeEnd: 100
+      Action: Hunt
+    SocialRolls:
+    - RangeStart: 1
+      RangeEnd: 100
+      Action: Socialize
+    SafetyRolls:
+    - RangeStart: 1
+      RangeEnd: 50
+      Action: Attack
+    - RangeStart: 51
+      RangeEnd: 100
+      Action: Flee
+  NPCBaseline:
+    BusyEnd: 33
+    SocializingEnd: 66
+    WorkingEnd: 100
+  NPCStates:
+  - RangeStart: 1
+    RangeEnd: 30
+    StateName: SafeHungry
+    TriggerCondition: 
+  - RangeStart: 31
+    RangeEnd: 40
+    StateName: SafeStarving
+    TriggerCondition: 
+  - RangeStart: 41
+    RangeEnd: 50
+    StateName: SafeLonely
+    TriggerCondition: loneliness<=12
+  - RangeStart: 51
+    RangeEnd: 60
+    StateName: SafeBored
+    TriggerCondition: boredom<=10
+  - RangeStart: 61
+    RangeEnd: 80
+    StateName: HasFoodShelter
+    TriggerCondition: 
+  - RangeStart: 81
+    RangeEnd: 85
+    StateName: Threatened
+    TriggerCondition: 
+  - RangeStart: 86
+    RangeEnd: 100
+    StateName: NeedsShelter
+    TriggerCondition: 
+  NPCTriggerResponses:
+  - StateName: SafeHungry
+    Responses:
+    - RangeStart: 1
+      RangeEnd: 20
+      Action: Forage
+    - RangeStart: 21
+      RangeEnd: 40
+      Action: Wait
+    - RangeStart: 41
+      RangeEnd: 60
+      Action: Steal
+    - RangeStart: 61
+      RangeEnd: 80
+      Action: Fight
+    - RangeStart: 81
+      RangeEnd: 100
+      Action: Ask
+  - StateName: SafeStarving
+    Responses:
+    - RangeStart: 1
+      RangeEnd: 20
+      Action: Wait
+    - RangeStart: 21
+      RangeEnd: 40
+      Action: Steal
+    - RangeStart: 41
+      RangeEnd: 60
+      Action: Fight
+    - RangeStart: 61
+      RangeEnd: 80
+      Action: Hunt
+    - RangeStart: 81
+      RangeEnd: 100
+      Action: None
+  - StateName: SafeLonely
+    Responses:
+    - RangeStart: 1
+      RangeEnd: 60
+      Action: Socialize
+    - RangeStart: 61
+      RangeEnd: 100
+      Action: LookForRelationship
+  - StateName: SafeBored
+    Responses:
+    - RangeStart: 1
+      RangeEnd: 20
+      Action: PlayGames
+    - RangeStart: 21
+      RangeEnd: 40
+      Action: Read
+    - RangeStart: 41
+      RangeEnd: 60
+      Action: Sing
+    - RangeStart: 61
+      RangeEnd: 80
+      Action: PlayInstrument
+    - RangeStart: 81
+      RangeEnd: 100
+      Action: Socialize
+  - StateName: HasFoodShelter
+    Responses:
+    - RangeStart: 1
+      RangeEnd: 80
+      Action: Share
+    - RangeStart: 81
+      RangeEnd: 100
+      Action: Hide
+  - StateName: Threatened
+    Responses:
+    - RangeStart: 1
+      RangeEnd: 60
+      Action: Flee
+    - RangeStart: 61
+      RangeEnd: 80
+      Action: FleeForHelp
+    - RangeStart: 81
+      RangeEnd: 100
+      Action: Fight
+  - StateName: NeedsShelter
+    Responses:
+    - RangeStart: 1
+      RangeEnd: 20
+      Action: Wait
+    - RangeStart: 21
+      RangeEnd: 40
+      Action: Ask
+    - RangeStart: 41
+      RangeEnd: 60
+      Action: Take
+    - RangeStart: 61
+      RangeEnd: 100
+      Action: Build

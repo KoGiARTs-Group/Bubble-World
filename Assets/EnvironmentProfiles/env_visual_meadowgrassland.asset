@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 584ff25987cd8564f9bd7286ea066892, type: 3}
+  m_Name: env_visual_meadowgrassland
+  m_EditorClassIdentifier: 
+  environment: 0
+  terrainTypes:
+  - {fileID: 11400000, guid: fb1fc0b873e51ba4a99790beac68c996, type: 2}
+  - {fileID: 11400000, guid: 7f11245de44c0a345b081418909a7bae, type: 2}
+  - {fileID: 11400000, guid: d53b85bf4c33502458ec97be25bbe1b4, type: 2}
+  - {fileID: 11400000, guid: 1707672bcb5155e40973fe06be65cc11, type: 2}
+  - {fileID: 11400000, guid: 0ad76c15e4a951447b28353cc1846cf6, type: 2}
+  - {fileID: 11400000, guid: 226c6932b545bee4385d382d8c6f55b1, type: 2}
+  - {fileID: 11400000, guid: da512422c5fce38489f3b9ea76e7104f, type: 2}
+  - {fileID: 11400000, guid: 594b39776aba9a649b5ddd8e2fa8d423, type: 2}
+  - {fileID: 11400000, guid: beaf214e994169448b30f3aeb7fec46d, type: 2}
+  - {fileID: 11400000, guid: 166debe9038220446bb58fcd0aa9b2a8, type: 2}
+  - {fileID: 11400000, guid: 8a3a6d2b556d56b45a4173d709703541, type: 2}
+  terrainOverrides:
+  - itemId: dirt
+    variant: 0
+    prefab: {fileID: 5002917887692441422, guid: 124282ed3c275754b99e3dfe42843a77,
+      type: 3}
+    material: {fileID: 2100000, guid: a04742bca0410c1478d2756f394f07f0, type: 2}
+  - itemId: fresh_water
+    variant: 0
+    prefab: {fileID: 6992247244994430879, guid: 91556062fc986504e9e448001e59d7f9,
+      type: 3}
+    material: {fileID: 0}
+  - itemId: grass
+    variant: 0
+    prefab: {fileID: 9166540815854925172, guid: 8d00ab1bbb0944f4991866a833699174,
+      type: 3}
+    material: {fileID: 2100000, guid: b7baf9a71bc40fb4daa5d67b42949c7b, type: 2}
+  - itemId: hill
+    variant: 0
+    prefab: {fileID: 0}
+    material: {fileID: 0}
+  - itemId: sand
+    variant: 0
+    prefab: {fileID: 8200871760037114003, guid: caff08af44085234bbd71f1ac8f842b6,
+      type: 3}
+    material: {fileID: 2100000, guid: ea40704332bde574580e7bf5e4e8f43d, type: 2}
+  - itemId: shore
+    variant: 0
+    prefab: {fileID: 0}
+    material: {fileID: 0}
+  - itemId: stone
+    variant: 0
+    prefab: {fileID: 0}
+    material: {fileID: 0}
+  vegetationOverrides:
+  - itemId: bush
+    variant: 0
+    prefab: {fileID: 7273896795219394148, guid: 0aacaf614de885c40b23bf82f8b8a5f9,
+      type: 3}
+    material: {fileID: 0}
+  - itemId: flowers
+    variant: 0
+    prefab: {fileID: 2057128543986714255, guid: 3c0b313f786c0a74ab3c02309be83a01,
+      type: 3}
+    material: {fileID: 0}
+  - itemId: gentle_rain
+    variant: 0
+    prefab: {fileID: 0}
+    material: {fileID: 0}
+  - itemId: rocks
+    variant: 0
+    prefab: {fileID: 3241444197096926347, guid: 3918dbcd38afbec42b034e59593bd4dd,
+      type: 3}
+    material: {fileID: 0}
+  - itemId: simple_shelter
+    variant: 0
+    prefab: {fileID: 506390976860210351, guid: ea3f0f43d14eb4f4e96e3ee8770caf15, type: 3}
+    material: {fileID: 0}
+  - itemId: sunlight
+    variant: 0
+    prefab: {fileID: 0}
+    material: {fileID: 0}
+  - itemId: tree
+    variant: 0
+    prefab: {fileID: 4317253339003537914, guid: fb488c80127f78c4bbb87dbcfedb9272,
+      type: 3}
+    material: {fileID: 0}
+  - itemId: wind_break
+    variant: 0
+    prefab: {fileID: 0}
+    material: {fileID: 0}
+  - itemId: wood
+    variant: 0
+    prefab: {fileID: 4366405775002355877, guid: 93647d569356fbe42b3656293b24814c,
+      type: 3}
+    material: {fileID: 0}
+  defaultTerrainMaterial: {fileID: 0}

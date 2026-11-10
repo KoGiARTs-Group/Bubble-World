@@ -1,0 +1,29 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to the License Client on channel: "LicenseClient-Lenovo" at "2026-06-30T10:05:22.529905Z"
+[Licensing::Client] Error: Code 10 while verifying Licensing Client signature (process Id: 17140, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Module] Error: LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.4+4293ba1
+  Session Id:              f4c06bd3a8f44705a9334a27f54931ab
+  Correlation Id:          d8e7206bc740335e0cd7d8aa656e3569
+  External correlation Id: 8335203024376758097
+  Machine Id:              r6ZN9RnpRQm9xvecC+mm/sZU7ZU=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-Lenovo" (connect: 0.00s, validation: 0.02s, handshake: 0.10s)
+[Licensing::IpcConnector] Successfully connected to the License Notification on channel: "LicenseClient-Lenovo-notifications" at "2026-06-30T10:05:22.6472548Z"
+[Licensing::Module] Error: Access token is unavailable; failed to update
+[Licensing::Client] Successfully updated license
+Built from '2022.3/staging' branch; Version is '2022.3.35f1 (011206c7a712) revision 70150'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) 64bit Professional' Language: 'en' Physical Memory: 32642 MB
+[Licensing::Client] Successfully resolved entitlements
+[Licensing::Module] Serial number assigned to: "6722987-UnityPersXXXX"
+BatchMode: 0, IsHumanControllingUs: 1, StartBugReporterOnCrash: 1, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.35f1\Editor\Unity.exe
+-projectPath
+D:\Unity Projects\BubbleWorld
+-logFile
+D:\Unity Projects\BubbleWorld\compile-log.txt
+Successfully changed project path to: D:\Unity Projects\BubbleWorld
+D:/Unity Projects/BubbleWorld
+Exiting without the bug reporter. Application will terminate with return code 0

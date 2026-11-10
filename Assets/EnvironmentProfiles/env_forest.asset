@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b051e302b6a8b4245a887d3e1faa2612, type: 3}
+  m_Name: env_forest
+  m_EditorClassIdentifier: 
+  skyboxMaterial: {fileID: 2100000, guid: 2d056ac30ecc9e542b26e06133f23602, type: 2}
+  ambientColor: {r: 0.15, g: 0.2, b: 0.12, a: 1}
+  ambientMode: 0
+  directionalColor: {r: 0.9, g: 0.85, b: 0.6, a: 1}
+  directionalIntensity: 0.8
+  directionalRotation: {x: 40, y: -45, z: 0}
+  fogColor: {r: 0.3, g: 0.4, b: 0.3, a: 1}
+  fogMode: 2
+  fogDensity: 0.015
+  cameraClearColor: {r: 0.2, g: 0.3, b: 0.2, a: 1}

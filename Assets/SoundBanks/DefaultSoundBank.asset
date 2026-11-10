@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 481c3382944390a42833b17e81aa4670, type: 3}
+  m_Name: DefaultSoundBank
+  m_EditorClassIdentifier: 
+  bgmPerWorld:
+  - environment: 0
+    cue: {fileID: 11400000, guid: e632dbee8cc07864c94b7692730b45d3, type: 2}
+  - environment: 1
+    cue: {fileID: 11400000, guid: 0ceb1d95a759f4e4294995aa7b997702, type: 2}
+  - environment: 2
+    cue: {fileID: 11400000, guid: 2e8ad8bd2bbf75e45854e19a2b69ac4d, type: 2}
+  sfx: []
+  cursorHover: {fileID: 11400000, guid: b1751eb9f717c0f48bc696b81d2eb2c4, type: 2}
+  cursorSelect: {fileID: 11400000, guid: b769967e53a7edf4d8e8b1ade2116d18, type: 2}
+  brushPlace: {fileID: 11400000, guid: 95d8c5a11682c754b8fbcf225cc1d9c6, type: 2}
+  brushRemove: {fileID: 11400000, guid: 0a6fc124f9e607944aae57663769c276, type: 2}
+  uiBack: {fileID: 11400000, guid: 4309be6e85f8d1d4fa20494082edf687, type: 2}
+  cursorSwitch: {fileID: 11400000, guid: 9cbfe04d421c9a8499a6e16d50b8f5fa, type: 2}
+  livabilityAlert: {fileID: 11400000, guid: 88c166c4ac63a724f84e5cd406de3223, type: 2}

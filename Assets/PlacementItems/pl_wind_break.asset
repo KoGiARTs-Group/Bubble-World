@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd1dca67d27198f4786fe53d6eca51bf, type: 3}
+  m_Name: pl_wind_break
+  m_EditorClassIdentifier: 
+  Id: wind_break
+  DisplayName: Wind Break
+  Icon: {fileID: 0}
+  Tab: 5
+  Layer: 1
+  IsObject: 1
+  TintColor: {r: 0.7647059, g: 0.6117647, b: 0.3764706, a: 1}
+  Prefab3D: {fileID: 0}
+  FallbackPrimitive: 0
+  ModelScale3D: {x: 1.5, y: 1, z: 0.5}
+  YOffset3D: 0.5
+  Food: 0
+  Water: 0
+  Shelter: 3
+  Light: 0
+  Safety: 3
+  Weather: 3
+  Stability: 2
+  Space: -1
+  TileCategory: 
+  OccupyRadius: 0

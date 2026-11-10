@@ -1,0 +1,171 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81f020c2c49fcd3438c2f1da09f6a11b, type: 3}
+  m_Name: tt_snow
+  m_EditorClassIdentifier: 
+  Id: snow
+  DisplayName: Snow
+  centerPrefab: {fileID: 9080548384913909535, guid: d0746a27b0a08524eae42a06636886cf,
+    type: 3}
+  edgePrefab: {fileID: 5075860262445380055, guid: 72056400fd98d8f4ebe3c2f847a3c761,
+    type: 3}
+  outerCornerPrefab: {fileID: 4193337075067529904, guid: e53cfc90670a941458c0990c3e6f1cbd,
+    type: 3}
+  innerCornerPrefab: {fileID: 3529994789274227211, guid: 966bbd02275a66041b4ea9787a5fe578,
+    type: 3}
+  isolatedPrefab: {fileID: 0}
+  defaultMaterial: {fileID: 2100000, guid: 337a01c3828907541a8a7358bfecf22a, type: 2}
+  explicitOverrides:
+  - variant: 14
+    prefab: {fileID: 5595336098102648774, guid: a9a53cfaf0ed278419293472970fa621,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 15
+    prefab: {fileID: 8934133859662605391, guid: adaa71b6e6cdfe14cb5d70bb003887cb,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 16
+    prefab: {fileID: 2340550906654288167, guid: 9a1aa43082138f8479e07a574aca53f3,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 17
+    prefab: {fileID: 4909570441723834537, guid: e99a11993f5947640a505f2af09be47c,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 1
+    prefab: {fileID: 4496091356340963850, guid: f89f0d6061f080e45acdbf62cfe17cc0,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 2
+    prefab: {fileID: 4991804735100587906, guid: 27e5cb689efa87243911fa492c52ba75,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 3
+    prefab: {fileID: 2839933360228877335, guid: 2b6db4c945f87c74badda05734018959,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 4
+    prefab: {fileID: 3605916207777154306, guid: b7fc919428731264d8b5926d7bd7dbd7,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 5
+    prefab: {fileID: 5580637857234679871, guid: a16b034053986574db7f9be40db62844,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 6
+    prefab: {fileID: 5697132349260660313, guid: 0ff368b1071f53b41b4fad07fc51990a,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 7
+    prefab: {fileID: 1286468866597505603, guid: d55ec90f8cf9dc44f8faafdf1f0aeda0,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 8
+    prefab: {fileID: 853937886310894702, guid: a07440affcb9aa14e880baa5630e1776, type: 3}
+    material: {fileID: 0}
+  - variant: 9
+    prefab: {fileID: 1662364274593580897, guid: 0b69692627be84e47809d156a25c0361,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 10
+    prefab: {fileID: 5504565690693036245, guid: 55c0fc3353327984898b15ae91e7fd97,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 11
+    prefab: {fileID: 6982055696500585775, guid: 0766d47bac6e6f24a88dff119eff0f9c,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 12
+    prefab: {fileID: 5774575903033988010, guid: 48d7a040b1ceb464e9b0da3ec2bd0097,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 18
+    prefab: {fileID: 904269621353086511, guid: 1c378b0c03078ae43aa703389eae1d37, type: 3}
+    material: {fileID: 0}
+  - variant: 20
+    prefab: {fileID: 366083104661865350, guid: 8c0135a5b5668284bad3bcef40148e9e, type: 3}
+    material: {fileID: 0}
+  - variant: 21
+    prefab: {fileID: 2875822568984067013, guid: 8605439d1e708e046943eeb8a99c0b00,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 22
+    prefab: {fileID: 7576803259031952021, guid: 2dbfd9874a221d240a54b49145f38d4b,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 23
+    prefab: {fileID: 4527146668744847570, guid: c0f4b2d860f5332428740d310dcf457f,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 28
+    prefab: {fileID: 6128900385549924718, guid: 47835a9499876b54697220edcfbc4980,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 29
+    prefab: {fileID: 7313270732657817159, guid: 559a6070ba4540f4481312b7ad93f643,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 30
+    prefab: {fileID: 9060686658412780918, guid: 0fb4297152aaaa14c97665dc6bca2ca7,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 31
+    prefab: {fileID: 8789686388912664532, guid: 2ba5aaa6f4e99ad4886c0880b9e1dd53,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 40
+    prefab: {fileID: 613521672958900472, guid: 10168829179c83c4aa17ca8014f93eb2, type: 3}
+    material: {fileID: 0}
+  - variant: 41
+    prefab: {fileID: 3317524389217072513, guid: 0be7b8967e0a57c46bf336a8e8b6788a,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 42
+    prefab: {fileID: 7826558534806468237, guid: 3e30f0c58f3eb954d98db73c0e9c0f3a,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 43
+    prefab: {fileID: 2140777047450288198, guid: a702706cdf9c3ee4f9900256a1d2335b,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 44
+    prefab: {fileID: 2551021062073432578, guid: 3e43556cc15612f4c83ee9e31c2dd1fd,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 45
+    prefab: {fileID: 8794194245279515500, guid: 97d3eb0ccdea4a64194d6aebc44262ca,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 46
+    prefab: {fileID: 7824324648479996525, guid: fa262009beaa39b4b8af6b493340ac84,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 47
+    prefab: {fileID: 7015841463888191019, guid: d0b5e03b3e0b8b444a6d0ffbbca8f5da,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 48
+    prefab: {fileID: 1896322196217965835, guid: 9328014aa12c40949b6a405b3cee902a,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 49
+    prefab: {fileID: 1993787326064337380, guid: 2e15a76894056d1478f4b4ea2ab896eb,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 50
+    prefab: {fileID: 4513273510922200754, guid: ad41d0e8877ffb344a7ce6f87b214e23,
+      type: 3}
+    material: {fileID: 0}
+  - variant: 51
+    prefab: {fileID: 1093282882421806565, guid: 6af6e4cd8b02bab479301a06419831cd,
+      type: 3}
+    material: {fileID: 0}

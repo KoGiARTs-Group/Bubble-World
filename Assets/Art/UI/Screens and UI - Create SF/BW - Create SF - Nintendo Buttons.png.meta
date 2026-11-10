@@ -1,0 +1,1295 @@
+fileFormatVersion: 2
+guid: 6a4fdc414c41b2f45bee3b5eeade2a03
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 732
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ba1ca165647a849a492c528db70bb4
+      internalID: 565627247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 732
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6c7ddd7117feb4f8d987548fb1ef00
+      internalID: -1519790985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 732
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a277fa9e9bb69534d9a01ee90b22806d
+      internalID: 635583338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 732
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baa7b2cb1111404faec0fc3f61bf5ac
+      internalID: 52079129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 732
+        width: 96
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6609acb438be2b44ab08ebff2c5877a3
+      internalID: 1177707541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_5
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 732
+        width: 104
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c272574a58339dd479d090f23daee833
+      internalID: -995225319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_6
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 732
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95da0abb2c37c8449d5100769c032d1
+      internalID: 520813291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_7
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 732
+        width: 98
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b735fcb6e5506684c8a1736018d276b7
+      internalID: 282040812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_8
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 732
+        width: 81
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57c2f8b9fab72e48a634f4c6d1e63f1
+      internalID: 1288205939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_9
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 732
+        width: 77
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ef4128f1404df4c8094f35a5757465
+      internalID: -1683817763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 590
+        width: 93
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52dc95797b2d4245987689d61765a20
+      internalID: 1150415325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 590
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1df275a858c6247a9357c8360e55f3
+      internalID: 763380025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 590
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eba4633fac6814c94ce36987d40408
+      internalID: -1692568092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_13
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 590
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2851bb569af967446ac8548f9eb3c099
+      internalID: 1742570900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_14
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 590
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c59dc93309e41f449b4923d4dca6fd0
+      internalID: 1471802600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_29
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 452
+        width: 69
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd04bc3f1ffe5ae4b88b2e540dd60b8f
+      internalID: 1456643991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_37
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 441
+        width: 112
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3eb62d049489b4ab4fed4286b1b5c3
+      internalID: -219877864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_38
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 441
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb9a60741b6bbe4ca3f41b7f8d0bbfe
+      internalID: 42371415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_39
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 450
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3732dd86d403b54c9dd3cb9b4d3ee38
+      internalID: -316821001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_41
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 450
+        width: 110
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0a7579bdba82c45ae7d7d6fead72c7
+      internalID: 185070316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 299
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e2cbd7e649d7d49837952fa139f8ab
+      internalID: -1380863963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_46
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 281
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07a4c06715611f4c9feb9fc4657bedc
+      internalID: 178796563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_48
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 281
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd03549decb710741bb873617ac805d1
+      internalID: -836996760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_49
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 281
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e91051a43da8b428f2e49702104246
+      internalID: 1421341149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_51
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 300
+        width: 102
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fcb298b3ed96f442848eef492e4eb0a
+      internalID: 1587876374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_52
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 300
+        width: 85
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006868b033d39c541af8da773424b42d
+      internalID: 27028861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_54
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 300
+        width: 102
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce26c5521b11074fa0eb13aaabe86cc
+      internalID: -1579096025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_55
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 282
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf13c5e5a7189d4eb71d50e14311520
+      internalID: -1216151338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_63
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 301
+        width: 99
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26111cae1b2c5c43b0d4548deb200f0
+      internalID: 228389170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_67
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 154
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc527e6293ff8814bb8d586151457016
+      internalID: -1876610412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_72
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 135
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02e51bc1b2082e4995aa958da9fa57b
+      internalID: 1490349978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_75
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 135
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca73f20817252e499d6f2172da1fc71
+      internalID: 1737198045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_77
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 135
+        width: 84
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf2531f10dfd184b854b17b79fc6e8b
+      internalID: -695245533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_79
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 153
+        width: 102
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07af3000114fd2341b3c4a4f0e85fba9
+      internalID: 1636287116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_80
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 154
+        width: 85
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd3a185782fff842b8378a475cce960
+      internalID: -800749261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_81
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 154
+        width: 102
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a0bf1f0093ba64e9e295ff98858b64
+      internalID: 1247298381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_83
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 136
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a308a62e00909df468ecd6cdaaf26656
+      internalID: -1563238666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_85
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 152
+        width: 99
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d0ca5dd33c7e241942f990c2a4dfe5
+      internalID: -360065634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_89
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b575e25256407f949aac196fc0e8d0f7
+      internalID: -688596653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_90
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 5
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e1a922be91a824d922496d37b96620
+      internalID: 2112093479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_91
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 5
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d14fe606feeac43bbc442a9008c0c0
+      internalID: -438589189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_92
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 10
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c22aeeff218414c86159550bc01822
+      internalID: 1800765501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_93
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 10
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165df78480f7ea84fae15877ccf4dc8c
+      internalID: -1217554310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_94
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 13
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60bd5c6bbb57dd4c9d37266d6b1b34a
+      internalID: 1466828019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_95
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 13
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63d2962da63815409ecd346a8125945
+      internalID: 1611606500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_96
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 0
+        width: 39
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf26ed6d46af2045a248cb3fda0a731
+      internalID: 1351317644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 441
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b90fb9cb89ea574698ce38b9adb6561
+      internalID: 458110583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 441
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2614a043df371d344811e87701e7e3f5
+      internalID: 1310693699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_17
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 441
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abb41a6e5e479544b8f9e2d467a5212
+      internalID: 262547206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_18
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 441
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ca0283d3cfec24fbc248bafb868607
+      internalID: 7662839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BW - Create SF - Nintendo Buttons_19
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 441
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f635facae52a2c94ebdc5efd0c24c608
+      internalID: 30295163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BW - Create SF - Nintendo Buttons_0: 565627247
+      BW - Create SF - Nintendo Buttons_1: -1519790985
+      BW - Create SF - Nintendo Buttons_10: 1150415325
+      BW - Create SF - Nintendo Buttons_11: 763380025
+      BW - Create SF - Nintendo Buttons_12: -1692568092
+      BW - Create SF - Nintendo Buttons_13: 1742570900
+      BW - Create SF - Nintendo Buttons_14: 1471802600
+      BW - Create SF - Nintendo Buttons_15: 458110583
+      BW - Create SF - Nintendo Buttons_16: 1310693699
+      BW - Create SF - Nintendo Buttons_17: 262547206
+      BW - Create SF - Nintendo Buttons_18: 7662839
+      BW - Create SF - Nintendo Buttons_19: 30295163
+      BW - Create SF - Nintendo Buttons_2: 635583338
+      BW - Create SF - Nintendo Buttons_20: 797701613
+      BW - Create SF - Nintendo Buttons_21: -2065088030
+      BW - Create SF - Nintendo Buttons_22: 1301703002
+      BW - Create SF - Nintendo Buttons_23: 2069121648
+      BW - Create SF - Nintendo Buttons_24: 1211287700
+      BW - Create SF - Nintendo Buttons_25: 760738201
+      BW - Create SF - Nintendo Buttons_26: -1063552115
+      BW - Create SF - Nintendo Buttons_27: 1991796230
+      BW - Create SF - Nintendo Buttons_28: 1199375395
+      BW - Create SF - Nintendo Buttons_29: 1456643991
+      BW - Create SF - Nintendo Buttons_3: 52079129
+      BW - Create SF - Nintendo Buttons_30: -972152199
+      BW - Create SF - Nintendo Buttons_31: -1185072467
+      BW - Create SF - Nintendo Buttons_32: -1161805196
+      BW - Create SF - Nintendo Buttons_33: -212210393
+      BW - Create SF - Nintendo Buttons_34: -885779817
+      BW - Create SF - Nintendo Buttons_35: -2083826921
+      BW - Create SF - Nintendo Buttons_36: 957328708
+      BW - Create SF - Nintendo Buttons_37: -219877864
+      BW - Create SF - Nintendo Buttons_38: 42371415
+      BW - Create SF - Nintendo Buttons_39: -316821001
+      BW - Create SF - Nintendo Buttons_4: 1177707541
+      BW - Create SF - Nintendo Buttons_40: 263583036
+      BW - Create SF - Nintendo Buttons_41: 185070316
+      BW - Create SF - Nintendo Buttons_42: 992314644
+      BW - Create SF - Nintendo Buttons_43: 444529417
+      BW - Create SF - Nintendo Buttons_44: -826042522
+      BW - Create SF - Nintendo Buttons_45: -1380863963
+      BW - Create SF - Nintendo Buttons_46: 178796563
+      BW - Create SF - Nintendo Buttons_47: 169122173
+      BW - Create SF - Nintendo Buttons_48: -836996760
+      BW - Create SF - Nintendo Buttons_49: 1421341149
+      BW - Create SF - Nintendo Buttons_5: -995225319
+      BW - Create SF - Nintendo Buttons_50: -236373084
+      BW - Create SF - Nintendo Buttons_51: 1587876374
+      BW - Create SF - Nintendo Buttons_52: 27028861
+      BW - Create SF - Nintendo Buttons_53: -2036489688
+      BW - Create SF - Nintendo Buttons_54: -1579096025
+      BW - Create SF - Nintendo Buttons_55: -1216151338
+      BW - Create SF - Nintendo Buttons_56: -1965225355
+      BW - Create SF - Nintendo Buttons_57: 1347382534
+      BW - Create SF - Nintendo Buttons_58: -1318976312
+      BW - Create SF - Nintendo Buttons_59: 83908311
+      BW - Create SF - Nintendo Buttons_6: 520813291
+      BW - Create SF - Nintendo Buttons_60: -655152301
+      BW - Create SF - Nintendo Buttons_61: -2067860522
+      BW - Create SF - Nintendo Buttons_62: -246937897
+      BW - Create SF - Nintendo Buttons_63: 228389170
+      BW - Create SF - Nintendo Buttons_64: -1599847681
+      BW - Create SF - Nintendo Buttons_65: -307638523
+      BW - Create SF - Nintendo Buttons_66: -1998075886
+      BW - Create SF - Nintendo Buttons_67: -1876610412
+      BW - Create SF - Nintendo Buttons_68: 6928010
+      BW - Create SF - Nintendo Buttons_69: -1896740885
+      BW - Create SF - Nintendo Buttons_7: 282040812
+      BW - Create SF - Nintendo Buttons_70: 1294031134
+      BW - Create SF - Nintendo Buttons_71: 2024227834
+      BW - Create SF - Nintendo Buttons_72: 1490349978
+      BW - Create SF - Nintendo Buttons_73: -227913080
+      BW - Create SF - Nintendo Buttons_74: 1333251631
+      BW - Create SF - Nintendo Buttons_75: 1737198045
+      BW - Create SF - Nintendo Buttons_76: -72656186
+      BW - Create SF - Nintendo Buttons_77: -695245533
+      BW - Create SF - Nintendo Buttons_78: 1531442916
+      BW - Create SF - Nintendo Buttons_79: 1636287116
+      BW - Create SF - Nintendo Buttons_8: 1288205939
+      BW - Create SF - Nintendo Buttons_80: -800749261
+      BW - Create SF - Nintendo Buttons_81: 1247298381
+      BW - Create SF - Nintendo Buttons_82: -1303042578
+      BW - Create SF - Nintendo Buttons_83: -1563238666
+      BW - Create SF - Nintendo Buttons_84: 1980523430
+      BW - Create SF - Nintendo Buttons_85: -360065634
+      BW - Create SF - Nintendo Buttons_86: 1872993964
+      BW - Create SF - Nintendo Buttons_87: 557050234
+      BW - Create SF - Nintendo Buttons_88: 2144248489
+      BW - Create SF - Nintendo Buttons_89: -688596653
+      BW - Create SF - Nintendo Buttons_9: -1683817763
+      BW - Create SF - Nintendo Buttons_90: 2112093479
+      BW - Create SF - Nintendo Buttons_91: -438589189
+      BW - Create SF - Nintendo Buttons_92: 1800765501
+      BW - Create SF - Nintendo Buttons_93: -1217554310
+      BW - Create SF - Nintendo Buttons_94: 1466828019
+      BW - Create SF - Nintendo Buttons_95: 1611606500
+      BW - Create SF - Nintendo Buttons_96: 1351317644
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

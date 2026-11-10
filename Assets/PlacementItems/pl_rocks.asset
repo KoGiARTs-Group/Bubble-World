@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd1dca67d27198f4786fe53d6eca51bf, type: 3}
+  m_Name: pl_rocks
+  m_EditorClassIdentifier: 
+  Id: rocks
+  DisplayName: Rocks
+  Icon: {fileID: 0}
+  Tab: 3
+  Layer: 1
+  IsObject: 1
+  TintColor: {r: 0.43529412, g: 0.4509804, b: 0.4627451, a: 1}
+  Prefab3D: {fileID: 3241444197096926347, guid: 3918dbcd38afbec42b034e59593bd4dd,
+    type: 3}
+  FallbackPrimitive: 0
+  ModelScale3D: {x: 1, y: 1, z: 1}
+  YOffset3D: 0.5
+  Food: 0
+  Water: 0
+  Shelter: 2
+  Light: 0
+  Safety: 2
+  Weather: 0
+  Stability: 3
+  Space: -1
+  TileCategory: 
+  OccupyRadius: 0

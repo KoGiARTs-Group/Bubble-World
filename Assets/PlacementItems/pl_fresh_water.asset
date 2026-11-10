@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd1dca67d27198f4786fe53d6eca51bf, type: 3}
+  m_Name: pl_fresh_water
+  m_EditorClassIdentifier: 
+  Id: fresh_water
+  DisplayName: Fresh Water
+  Icon: {fileID: 0}
+  Tab: 1
+  Layer: 0
+  IsObject: 0
+  TintColor: {r: 0.3019608, g: 0.6509804, b: 1, a: 1}
+  Prefab3D: {fileID: 6141431000402595218, guid: 91556062fc986504e9e448001e59d7f9,
+    type: 3}
+  FallbackPrimitive: 0
+  ModelScale3D: {x: 1, y: 1, z: 1}
+  YOffset3D: 0
+  Food: 0
+  Water: 5
+  Shelter: 0
+  Light: 0
+  Safety: 0
+  Weather: 1
+  Stability: 1
+  Space: 0
+  TileCategory: 
+  OccupyRadius: 0

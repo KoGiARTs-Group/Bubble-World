@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd1dca67d27198f4786fe53d6eca51bf, type: 3}
+  m_Name: pl_wood
+  m_EditorClassIdentifier: 
+  Id: wood
+  DisplayName: Wood Pile
+  Icon: {fileID: 0}
+  Tab: 3
+  Layer: 1
+  IsObject: 1
+  TintColor: {r: 0.6039216, g: 0.3882353, b: 0.21960784, a: 1}
+  Prefab3D: {fileID: 4366405775002355877, guid: 93647d569356fbe42b3656293b24814c,
+    type: 3}
+  FallbackPrimitive: 0
+  ModelScale3D: {x: 1, y: 1, z: 1}
+  YOffset3D: 0.5
+  Food: 0
+  Water: 0
+  Shelter: 4
+  Light: 0
+  Safety: 1
+  Weather: 0
+  Stability: 2
+  Space: -1
+  TileCategory: 
+  OccupyRadius: 0

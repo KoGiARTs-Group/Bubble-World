@@ -1,0 +1,37 @@
+# ===== Unity (generated / local caches) =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+MemoryCaptures/
+
+# IDE / OS artifacts
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.suo
+*.swp
+*.bak
+*.tmp
+Thumbs.db
+.DS_Store
+
+# Unity misc
+*.pidb
+*.booproj
+
+# ===== Internal planning docs (kept local, not published) =====
+Assets/Scripts/BubbleWorld/Plans/
+Assets/Scripts/BubbleWorld/Plans.meta
+
+# ===== Node backend (Backend/) =====
+Backend/node_modules/
+Backend/dist/
+Backend/.env
+npm-debug.log*
+yarn-error.log*

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd1dca67d27198f4786fe53d6eca51bf, type: 3}
+  m_Name: pl_gentle_rain
+  m_EditorClassIdentifier: 
+  Id: gentle_rain
+  DisplayName: Gentle Rain
+  Icon: {fileID: 0}
+  Tab: 4
+  Layer: 3
+  IsObject: 1
+  TintColor: {r: 0.5568628, g: 0.7882353, b: 1, a: 1}
+  Prefab3D: {fileID: 0}
+  FallbackPrimitive: 2
+  ModelScale3D: {x: 1, y: 1, z: 1}
+  YOffset3D: 0
+  Food: 2
+  Water: 4
+  Shelter: 0
+  Light: 0
+  Safety: 0
+  Weather: 3
+  Stability: 1
+  Space: 0
+  TileCategory: 
+  OccupyRadius: 0

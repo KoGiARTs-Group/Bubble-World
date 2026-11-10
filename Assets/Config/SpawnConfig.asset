@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b25ccb60e3f20334b9aa6340b155c171, type: 3}
+  m_Name: SpawnConfig
+  m_EditorClassIdentifier: 
+  NPCSpawnFoodDays: 7
+  NPCSpawnWaterDays: 7
+  NPCSpawnShelterDays: 7
+  DisgruntledTriggerDays: 3
+  ScarcityResponseTable:
+  - RangeStart: 1
+    RangeEnd: 20
+    Response: 0
+  - RangeStart: 21
+    RangeEnd: 40
+    Response: 1
+  - RangeStart: 41
+    RangeEnd: 60
+    Response: 2
+  - RangeStart: 61
+    RangeEnd: 80
+    Response: 3
+  - RangeStart: 81
+    RangeEnd: 95
+    Response: 4
+  - RangeStart: 96
+    RangeEnd: 100
+    Response: 5
+  AnimalSpawnRequiresFood: 1
+  AnimalSpawnRequiresWater: 1
+  AnimalSpawnCooldownDays: 3
+  NPCSpawnCooldownDays: 7
