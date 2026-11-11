@@ -25,6 +25,10 @@ Thumbs.db
 *.pidb
 *.booproj
 
+# ===== Local-only config (holds AWS keys; not published) =====
+Assets/Config/SoulformBrainConfig.asset
+Assets/Config/SoulformBrainConfig.asset.meta
+
 # ===== Internal planning docs (kept local, not published) =====
 Assets/Scripts/BubbleWorld/Plans/
 Assets/Scripts/BubbleWorld/Plans.meta
